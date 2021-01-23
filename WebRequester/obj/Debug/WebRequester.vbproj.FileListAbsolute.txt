@@ -1,0 +1,10 @@
+C:\Users\Spencr\Documents\Visual Studio 2008\Projects\WebRequester\WebRequester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Spencr\Documents\Visual Studio 2008\Projects\WebRequester\WebRequester\obj\Debug\WebRequester.Resources.resources
+C:\Users\Spencr\Documents\Visual Studio 2008\Projects\WebRequester\WebRequester\obj\Debug\WebRequester.vbproj.GenerateResource.Cache
+C:\Users\Spencr\Documents\Visual Studio 2008\Projects\WebRequester\WebRequester\bin\Debug\WebRequester.exe
+C:\Users\Spencr\Documents\Visual Studio 2008\Projects\WebRequester\WebRequester\bin\Debug\WebRequester.pdb
+C:\Users\Spencr\Documents\Visual Studio 2008\Projects\WebRequester\WebRequester\bin\Debug\WebRequester.xml
+C:\Users\Spencr\Documents\Visual Studio 2008\Projects\WebRequester\WebRequester\obj\Debug\WebRequester.exe
+C:\Users\Spencr\Documents\Visual Studio 2008\Projects\WebRequester\WebRequester\obj\Debug\WebRequester.xml
+C:\Users\Spencr\Documents\Visual Studio 2008\Projects\WebRequester\WebRequester\obj\Debug\WebRequester.pdb
+C:\Users\Spencr\Documents\Visual Studio 2008\Projects\WebRequester\WebRequester\obj\Debug\WebRequester.frmMain.resources
